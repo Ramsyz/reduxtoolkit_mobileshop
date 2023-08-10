@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 14",
+      "src": "https://www.jiomart.com/images/product/original/493177768/apple-iphone-14-plus-128-gb-purple-digital-o493177768-p593689593-0-202306301808.jpeg?im=Resize=(420,420)",
+      "price": 999
+    },
+    {
+      "id": 2,
+      "name": "Iphone 14 Plus ",
+      "src": "https://imagineonline.store/cdn/shop/products/MPUF3HN_A_1.jpg?v=1662718728",
+      "price": 1099
+    },
+    {
+      "id": 3,
+      "name": "Iphone 14 Pro",
+      "src": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662703105/Croma%20Assets/Communication/Mobiles/Images/261963_oqrd6j.png?tr=w-600",
+      "price": 1199
+    },
+    {
+      "id": 4,
+      "name": "Iphone 14 Pro Max",
+      "src": "https://cdn.jagofon.com/model/dtfR5n1utnrdtgXgusrHQvfY30uX6rtqxWS8PpQU.jpg",
+      "price": 1299
+    },
+    {
+      "id": 5,
+      "name": "MagSafe Charger",
+      "src": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MHXH3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1661269793559",
+      "price": 39
+    },
+    {
+      "id": 6,
+      "name": "Silicone Case With MagSafe",
+      "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQU73?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1676920930838",
+      "price": 49
+    },
+    {
+      "id": 7,
+      "name": "Leather Wallet With MagSafe",
+      "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPPT3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1663108575695",
+      "price": 59
+    },
+    {
+      "id": 8,
+      "name": "20W USB-C Power Adapter",
+      "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MU7T2_GEO_US?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1542406417329",
+      "price": 999
+    },
+    {
+      "id": 9,
+      "name": "AirPods Pro (2nd generation)",
+      "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1660803972361",
+      "price": 249
+    }
+  ]
+}
